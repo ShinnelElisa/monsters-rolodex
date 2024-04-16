@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShinnelElisa/monsters-rolodex/static/css/main.ca02dc7e.css",
+    "main.js": "/ShinnelElisa/monsters-rolodex/static/js/main.09c360e8.js",
+    "static/js/453.5d3a426d.chunk.js": "/ShinnelElisa/monsters-rolodex/static/js/453.5d3a426d.chunk.js",
+    "index.html": "/ShinnelElisa/monsters-rolodex/index.html",
+    "main.ca02dc7e.css.map": "/ShinnelElisa/monsters-rolodex/static/css/main.ca02dc7e.css.map",
+    "main.09c360e8.js.map": "/ShinnelElisa/monsters-rolodex/static/js/main.09c360e8.js.map",
+    "453.5d3a426d.chunk.js.map": "/ShinnelElisa/monsters-rolodex/static/js/453.5d3a426d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca02dc7e.css",
+    "static/js/main.09c360e8.js"
+  ]
+}
